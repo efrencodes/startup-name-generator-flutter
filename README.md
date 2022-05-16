@@ -2,11 +2,8 @@
 
 Listado de palabras en Inglés.
 
- <iframe width="560" height="315"
-src="https://res.cloudinary.com/efrencodes/video/upload/v1652735503/github.com/startup-name-generator-flutter/002days_wjkkec.mov"
-frameborder="0"
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-allowfullscreen></iframe>
+<video src="https://res.cloudinary.com/efrencodes/video/upload/v1652735503/github.com/startup-name-generator-flutter/002days_wjkkec.mov" width="180" />
+
 
 ## ✨ Características
 
