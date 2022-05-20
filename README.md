@@ -1,17 +1,24 @@
-# Aplicación de listado de palabras en Inglés.
+# App name generator
 
-Listado de palabras en Inglés.
+App name generator with words random in english.
 
-<video src="https://res.cloudinary.com/efrencodes/video/upload/v1652735503/github.com/startup-name-generator-flutter/002days_wjkkec.mov" width="180" />
+<p align="center">
+<img src="https://github.com/efrencodes/efrencodes/blob/master/assets/projects/startup-name-generator-flutter/1.png" alt="screenshot" width="230px" hspace="30"/>
+<img src="https://github.com/efrencodes/efrencodes/blob/master/assets/projects/startup-name-generator-flutter/2.png" alt="screenshot" width="230px"/>
+</p>
 
+## ✨ Features.
 
-## ✨ Características
+- List of words random in English.
+- Save favorite words.
+- List of favorite words.
 
-- Listado de palabras de Inglés.
-- Guardado de palabras favoritas.
-- Lista de palabras favoritas.
+Exercise performed by the Flutter documentation.
 
-## 📫 Comó contactarme?
+- [Parte one](https://docs.flutter.dev/get-started/codelab)
+- [Parte two](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2#0)
+
+## 📫 How to contact me?
 
 - ✨ [efrencodes@gmail.com](mailto:efrencodes@gmail.com)
 - ✨ [www.github.com/efrencodes](https://github.com/efrencodes)
